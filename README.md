@@ -1,1 +1,6 @@
 # Mental-Health-budget
+# Business Problem
+The difficulty we have is related to employee access to programs that may help them manage and ultimately treat their mental health conditions, as well as the expenses connected with those services. I sum up the issue as follows: "Is it feasible to anticipate with accuracy which employees in the workplace have a mental illness, in order that they may be provided with the support and services they require as part of corporate initiatives?" To properly frame the analysis, let's be more precise and narrow the problem's scope. A corporation may provide an employee with a mental health examination that includes the services of a therapist, counselor, or psychiatrist in addition to other treatments if it is certain that the person has a mental health condition. Therefore, my goal is to develop a machine learning model that can correctly predict whether a person has a mental health condition. If so, a business may allocate funds at the beginning of the year for professional therapist, counselor, or psychiatrist-led mental health examinations.
+
+# Approach
+Data source load Data cleaning EDA Feature Engineering and Correlation Model Building ROC Curve
